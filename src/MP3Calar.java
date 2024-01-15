@@ -1,4 +1,3 @@
-// Yeni bir MP3 çalar sınıfı
 class MP3Calar implements MuzikCalar {
     @Override
     public void muzikCal() {

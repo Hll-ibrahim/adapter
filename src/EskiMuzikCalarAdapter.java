@@ -1,4 +1,3 @@
-// Adaptör Sınıfı
 class EskiMuzikCalarAdapter implements MuzikCalar {
     private EskiMuzikCalar eskiMuzikCalar;
 
